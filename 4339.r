@@ -1,6 +1,5 @@
 # Good day to anyone who's reading this. Apparently i could not get the CoxSnellResidual to work and could not get the Cp Mallow
-# test value too from my ANOVA. So ye semoga terhibur and Good luck!
-
+# test value too from my ANOVA.
 
 
 # Loading the libraries
